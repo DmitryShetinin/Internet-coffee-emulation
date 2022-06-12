@@ -1,0 +1,28 @@
+C:\Users\я\Desktop\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\я\Desktop\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\я\Desktop\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.FirstCustomControl.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.Elements.UserControl1.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.FirstCustomControl.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.Elements.Chart.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shche\OneDrive\Рабочий стол\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete

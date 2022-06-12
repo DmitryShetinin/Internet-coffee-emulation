@@ -1,0 +1,61 @@
+C:\Users\я\Desktop\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\я\Desktop\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\я\Desktop\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Card.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Elements.Basket.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Elements.Order.resources
+C:\Users\я\Desktop\Restaurant\obj\Debug\Restaurant.Choose.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.Choose.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.Elements.Basket.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.Card.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.Elements.Order.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Shche\OneDrive\Рабочий стол\video\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\я\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\я\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\я\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Choose.resources
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Elements.Basket.resources
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Card.resources
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Elements.Order.resources
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\я\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.Choose.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.Elements.Basket.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.Card.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.Elements.Order.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2 — копия\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
